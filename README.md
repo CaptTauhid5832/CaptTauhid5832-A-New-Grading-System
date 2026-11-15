@@ -1,6 +1,6 @@
 <h1 align="center"> IBM Full Stack Software Developer Certificate <br> Django Application Development with SQL and Databases </h1>
 
-## Online Course App
+## Online Course-A New Grading System App
 
 This is the final project within the course, "Django Application Development with SQL and Databases" in the IBM Full Stack Software Developer Certificate. The objective of this project is to implement a new course assessment feature to an existing course application by designing and developing the necessary models, templates, and views. Once this has been completed, the application will be thoroughly tested to ensure functionality is as expected.
 
